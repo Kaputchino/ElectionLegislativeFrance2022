@@ -8,7 +8,7 @@ Licence Ouverte / Open Licence version 2.0
 les données circonscriptions sont originaire de https://data.assemblee-nationale.fr/acteurs/deputes-en-exercice
 
 Les données ont été mis en ordre par mes propres algorithmes .
-La table partimineur a été fait par mes soins, seul, il m'a fallu environ un mois, elle peut contenir des erreures
+La table partimineur a été fait par mes soins, seul, il m'a fallu environ un mois, elle peut contenir des erreurs, pour compléter les données, je suis allé sur le site des parties, wikipedia, ainsi que les médias locaux.
 
 Je suis bien conscient que la base de donnée n'est pas optimale
 
