@@ -10,4 +10,6 @@ les données circonscriptions sont originaire de https://data.assemblee-national
 Les données ont été mis en ordre par mes propres algorithmes .
 La table partimineur a été fait par mes soins, seul, il m'a fallu environ un mois, elle peut contenir des erreures
 
+Je suis bien conscient que la base de donnée n'est pas optimale
+
 si vous souhaitez réutiliser les données, veuillez respecté les conditions d'utilisaions de me ses sources, ainsi que renvoyer un lien vers cette page
